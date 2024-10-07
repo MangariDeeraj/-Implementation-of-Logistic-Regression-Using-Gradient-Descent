@@ -16,7 +16,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 4.Predict the values of array.
 
-5.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.. 
+5.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn..  
 
 ## Program:
 ```
